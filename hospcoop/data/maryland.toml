@@ -1,0 +1,219 @@
+## Population data file for Maryland by county
+## Data from the 2014-2018 5-year ACS
+
+[24001]
+name = "Allegany County, Maryland"
+latitude =  39.6214504000255
+longitude =  -78.6976174885841
+population =  71977
+[24001.sex]
+male =  37646
+female =  34331
+
+[24003]
+name = "Anne Arundel County, Maryland"
+latitude =  39.0064627952125
+longitude =  -76.6050683812192
+population =  567696
+[24003.sex]
+male =  281176
+female =  286520
+
+[24005]
+name = "Baltimore County, Maryland"
+latitude =  39.4627114258265
+longitude =  -76.6392918794447
+population =  827625
+[24005.sex]
+male =  392421
+female =  435204
+
+[24009]
+name = "Calvert County, Maryland"
+latitude =  38.5433612822593
+longitude =  -76.5686791301433
+population =  91082
+[24009.sex]
+male =  45307
+female =  45775
+
+[24011]
+name = "Caroline County, Maryland"
+latitude =  38.8717130199714
+longitude =  -75.8315551376005
+population =  32875
+[24011.sex]
+male =  16021
+female =  16854
+
+[24013]
+name = "Carroll County, Maryland"
+latitude =  39.562884093916
+longitude =  -77.0225459463681
+population =  167522
+[24013.sex]
+male =  82841
+female =  84681
+
+[24015]
+name = "Cecil County, Maryland"
+latitude =  39.5712410376416
+longitude =  -75.9407395902159
+population =  102517
+[24015.sex]
+male =  51149
+female =  51368
+
+[24017]
+name = "Charles County, Maryland"
+latitude =  38.5072945950516
+longitude =  -76.9921618524093
+population =  157671
+[24017.sex]
+male =  76071
+female =  81600
+
+[24019]
+name = "Dorchester County, Maryland"
+latitude =  38.4829090903176
+longitude =  -76.0125489231023
+population =  32261
+[24019.sex]
+male =  15335
+female =  16926
+
+[24021]
+name = "Frederick County, Maryland"
+latitude =  39.4722303938333
+longitude =  -77.3980066043331
+population =  248472
+[24021.sex]
+male =  122524
+female =  125948
+
+[24023]
+name = "Garrett County, Maryland"
+latitude =  39.5288860142245
+longitude =  -79.2729389364245
+population =  29376
+[24023.sex]
+male =  14561
+female =  14815
+
+[24025]
+name = "Harford County, Maryland"
+latitude =  39.5610915011223
+longitude =  -76.3170564941579
+population =  251025
+[24025.sex]
+male =  122763
+female =  128262
+
+[24027]
+name = "Howard County, Maryland"
+latitude =  39.2507239591364
+longitude =  -76.9311899534489
+population =  315327
+[24027.sex]
+male =  154285
+female =  161042
+
+[24029]
+name = "Kent County, Maryland"
+latitude =  39.2545370553491
+longitude =  -76.0399287400895
+population =  19593
+[24029.sex]
+male =  9344
+female =  10249
+
+[24031]
+name = "Montgomery County, Maryland"
+latitude =  39.136333991721
+longitude =  -77.2041824932736
+population =  1040133
+[24031.sex]
+male =  502389
+female =  537744
+
+[24033]
+name = "Prince George's County, Maryland"
+latitude =  38.8295270687039
+longitude =  -76.8472798903823
+population =  906202
+[24033.sex]
+male =  436446
+female =  469756
+
+[24035]
+name = "Queen Anne's County, Maryland"
+latitude =  39.0680141823373
+longitude =  -76.0202763332738
+population =  49355
+[24035.sex]
+male =  24426
+female =  24929
+
+[24037]
+name = "St. Mary's County, Maryland"
+latitude =  38.302397584542
+longitude =  -76.6058471614463
+population =  111531
+[24037.sex]
+male =  55552
+female =  55979
+
+[24039]
+name = "Somerset County, Maryland"
+latitude =  38.1157804758978
+longitude =  -75.7517560171247
+population =  25737
+[24039.sex]
+male =  13833
+female =  11904
+
+[24041]
+name = "Talbot County, Maryland"
+latitude =  38.7713460172919
+longitude =  -76.0971001032623
+population =  37211
+[24041.sex]
+male =  17626
+female =  19585
+
+[24043]
+name = "Washington County, Maryland"
+latitude =  39.6036067143996
+longitude =  -77.813952842379
+population =  149811
+[24043.sex]
+male =  76098
+female =  73713
+
+[24045]
+name = "Wicomico County, Maryland"
+latitude =  38.3732943326988
+longitude =  -75.620782984534
+population =  102172
+[24045.sex]
+male =  48535
+female =  53637
+
+[24047]
+name = "Worcester County, Maryland"
+latitude =  38.2127785479728
+longitude =  -75.3340040291555
+population =  51564
+[24047.sex]
+male =  25283
+female =  26281
+
+[24510]
+name = "Baltimore city, Maryland"
+latitude =  39.3050792650991
+longitude =  -76.6144415357469
+population =  614700
+[24510.sex]
+male =  288691
+female =  326009
+
