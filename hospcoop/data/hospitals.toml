@@ -1,0 +1,332 @@
+## Hospital data file for Maryland
+
+[115]
+name = "VA Maryland Health Care System - Baltimore VA Medical Center"
+latitude =  39.289565
+longitude =  -76.6244839
+icucount =  2
+
+[1743]
+name = "UPMC Western Maryland (FKA Western Maryland Regional Medical Center)"
+latitude =  39.6483691
+longitude =  -78.7328124
+icucount =  14
+
+[1744]
+name = "Anne Arundel Medical Center (FKA Anne Arundel Health System)"
+latitude =  38.9901193
+longitude =  -76.5341984
+icucount =  20
+
+[1745]
+name = "MedStar Harbor Hospital"
+latitude =  39.2521066
+longitude =  -76.614284
+icucount =  12
+
+[1746]
+name = "UM Baltimore Washington Medical Center"
+latitude =  39.1376872
+longitude =  -76.6228375
+icucount =  30
+
+[1747]
+name = "Greater Baltimore Medical Center (AKA GBMC HealthCare)"
+latitude =  39.3981794
+longitude =  -76.6262901
+icucount =  24
+
+[1748]
+name = "Northwest Hospital"
+latitude =  39.358517
+longitude =  -76.782082
+icucount =  16
+
+[1749]
+name = "UM St Joseph Medical Center (FKA St Joseph Medical Center)"
+latitude =  39.3873256
+longitude =  -76.6111596
+icucount =  28
+
+[1750]
+name = "MedStar Franklin Square Medical Center"
+latitude =  39.3403944
+longitude =  -76.4967919
+icucount =  26
+
+[1751]
+name = "CalvertHealth Medical Center (FKA Calvert Memorial Hospital)"
+latitude =  38.5626456
+longitude =  -76.5956632
+icucount =  4
+
+[1752]
+name = "Carroll Hospital"
+latitude =  39.5582432
+longitude =  -76.9908346
+icucount =  12
+
+[1753]
+name = "ChristianaCare - Union Hospital (FKA Union Hospital of Cecil County)"
+latitude =  39.608588
+longitude =  -75.832008
+icucount =  5
+
+[1754]
+name = "University of Maryland Charles Regional Medical Center (FKA Civista Medical Center)"
+latitude =  38.52906
+longitude =  -76.9724071
+icucount =  10
+
+[1755]
+name = "Frederick Health Hospital (FKA Frederick Regional Health System)"
+latitude =  39.4226989
+longitude =  -77.4146128
+icucount =  18
+
+[1756]
+name = "Garrett County Memorial Hospital (AKA Garrett Regional Medical Center)"
+latitude =  39.413393
+longitude =  -79.4010325
+icucount =  2
+
+[1757]
+name = "UM Harford Memorial Hospital"
+latitude =  39.5429695
+longitude =  -76.0908574
+icucount =  5
+
+[1758]
+name = "UM Upper Chesapeake Medical Center"
+latitude =  39.5188422
+longitude =  -76.3461222
+icucount =  14
+
+[1759]
+name = "Howard County General Hospital"
+latitude =  39.2136187
+longitude =  -76.885917
+icucount =  16
+
+[1760]
+name = "UM Shore Medical Center at Chestertown (FKA Chester River Hospital Center)"
+latitude =  39.21837
+longitude =  -76.064499
+icucount =  6
+
+[1761]
+name = "Suburban Hospital"
+latitude =  38.9973285
+longitude =  -77.1105309
+icucount =  24
+
+[1762]
+name = "MedStar Montgomery Medical Center"
+latitude =  39.1539883
+longitude =  -77.054713
+icucount =  12
+
+[1763]
+name = "Holy Cross Hospital"
+latitude =  39.0147079
+longitude =  -77.0347487
+icucount =  46
+
+[1764]
+name = "Adventist HealthCare Shady Grove Medical Center"
+latitude =  39.0980422
+longitude =  -77.1982981
+icucount =  21
+
+[1765]
+name = "Doctors Community Hospital (FKA Doctors Community Health System)"
+latitude =  38.9808223
+longitude =  -76.8651595
+icucount =  22
+
+[1766]
+name = "MedStar Southern Maryland Hospital Center"
+latitude =  38.7485674
+longitude =  -76.8757424
+icucount =  18
+
+[1768]
+name = "Fort Washington Medical Center"
+latitude =  38.7285124
+longitude =  -76.9925925
+icucount =  4
+
+[1769]
+name = "UM Prince Georges Hospital Center (FKA Prince Georges Hospital Center)"
+latitude =  38.9306528
+longitude =  -76.9209112
+icucount =  34
+
+[1770]
+name = "MedStar St Marys Hospital"
+latitude =  38.3020715
+longitude =  -76.6381454
+icucount =  12
+
+[1771]
+name = "UM Shore Medical Center at Easton (FKA Memorial Hospital at Easton)"
+latitude =  38.7697056
+longitude =  -76.076931
+icucount =  16
+
+[1772]
+name = "Meritus Medical Center (AKA Meritus Health)"
+latitude =  39.6226768
+longitude =  -77.6851973
+icucount =  17
+
+[1773]
+name = "TidalHealth Peninsula Regional (FKA Peninsula Regional Medical Center)"
+latitude =  38.362468
+longitude =  -75.598013
+icucount =  24
+
+[1774]
+name = "Atlantic General Hospital"
+latitude =  38.3396404
+longitude =  -75.2115477
+icucount =  6
+
+[1775]
+name = "UMMC Midtown Campus (FKA Maryland General Hospital)"
+latitude =  39.2986161
+longitude =  -76.6207831
+icucount =  12
+
+[1776]
+name = "UM Rehabilitation & Orthopaedic Institute (FKA Kernan Hospital)"
+latitude =  39.3137299
+longitude =  -76.7084953
+icucount =  5
+
+[1777]
+name = "MedStar Good Samaritan Hospital"
+latitude =  39.3582073
+longitude =  -76.5872769
+icucount =  17
+
+[1778]
+name = "Mercy Medical Center"
+latitude =  39.294032
+longitude =  -76.6132459
+icucount =  22
+
+[1779]
+name = "The Johns Hopkins Hospital"
+latitude =  39.2962572
+longitude =  -76.5917676
+icucount =  90
+
+[1780]
+name = "Saint Agnes Hospital (AKA Saint Agnes Healthcare)"
+latitude =  39.2716024
+longitude =  -76.6737365
+icucount =  16
+
+[1781]
+name = "Sinai Hospital of Baltimore"
+latitude =  39.3524767
+longitude =  -76.6613048
+icucount =  35
+
+[1782]
+name = "Grace Medical Center (FKA Bon Secours Baltimore Hospital)"
+latitude =  39.2882937
+longitude =  -76.6498445
+icucount =  8
+
+[1783]
+name = "Johns Hopkins Bayview Medical Center"
+latitude =  39.290101
+longitude =  -76.5468383
+icucount =  42
+
+[1784]
+name = "MedStar Union Memorial Hospital"
+latitude =  39.329267
+longitude =  -76.614289
+icucount =  52
+
+[1785]
+name = "University of Maryland Medical Center"
+latitude =  39.2880132
+longitude =  -76.6248449
+icucount =  230
+
+[4453]
+name = "Mt Washington Pediatric Hospital"
+latitude =  39.3631103
+longitude =  -76.65368
+icucount =  39
+
+[4516]
+name = "Levindale Hebrew Geriatric Center & Hospital"
+latitude =  39.3541226
+longitude =  -76.6651574
+icucount =  21
+
+[4908]
+name = "Adventist HealthCare Shady Grove Medical Center - Mental Health"
+latitude =  39.0997858
+longitude =  -77.1994378
+icucount =  27
+
+[4942]
+name = "Deers Head Hospital Center"
+latitude =  38.3822841
+longitude =  -75.5957858
+icucount =  10
+
+[5246]
+name = "Western Maryland Hospital Center"
+latitude =  39.6657093
+longitude =  -77.7177223
+icucount =  9
+
+[5342]
+name = "Kennedy Krieger Institute"
+latitude =  39.2987991
+longitude =  -76.5940173
+icucount =  19
+
+[5959]
+name = "Clifton T Perkins Hospital Center"
+latitude =  39.1399817
+longitude =  -76.7952266
+icucount =  32
+
+[6010]
+name = "National Institutes of Health Clinical Center"
+latitude =  38.9995739
+longitude =  -77.1009691
+icucount =  35
+
+[6079]
+name = "Holy Cross Germantown Hospital"
+latitude =  39.1807761
+longitude =  -77.2429848
+icucount =  8
+
+[6223]
+name = "Metropolitan Transition Center Correctional Facility"
+latitude =  39.29934
+longitude =  -76.607092
+icucount =  4
+
+[6499]
+name = "Adventist HealthCare White Oak Medical Center"
+latitude =  39.067634
+longitude =  -76.979828
+icucount =  26
+
+[6527]
+name = "Adventist HealthCare Takoma Park"
+latitude =  38.9856862
+longitude =  -77.0019265
+icucount =  32
+

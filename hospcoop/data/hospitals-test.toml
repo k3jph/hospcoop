@@ -1,0 +1,26 @@
+## Test hospital data file for Maryland
+
+[1745]
+name = "MedStar Harbor Hospital"
+latitude =  39.2521066
+longitude =  -76.614284
+icucount =  12
+
+[1757]
+name = "UM Harford Memorial Hospital"
+latitude =  39.5429695
+longitude =  -76.0908574
+icucount =  5
+
+[1763]
+name = "Holy Cross Hospital"
+latitude =  39.0147079
+longitude =  -77.0347487
+icucount =  46
+
+[4453]
+name = "Mt Washington Pediatric Hospital"
+latitude =  39.3631103
+longitude =  -76.65368
+icucount =  39
+
